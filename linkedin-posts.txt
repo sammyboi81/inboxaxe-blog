@@ -1,0 +1,8 @@
+LINKEDIN POST 1: The Regulatory Tipping Point
+Founders: EU AI Act enforcement begins in 90 days. By 2027, every high-risk AI system in the EU must produce auditable decision logs on demand. I spent a year proving a single founder can ship a governed AI stack. #AI #Governance
+
+LINKEDIN POST 2: The Identity Problem
+Your AI system has no identity. No birth certificate. Each conversation starts fresh. For enterprises, it's a compliance nightmare. Governed AI identity changes this. #AI #Governance #Compliance
+
+LINKEDIN POST 3: The Skill That Compounds
+Alex Hormozi: AI will never be worse than it is right now. The skill is direction. Three moves separate the founders running circles: (1) Write briefs, (2) Assign roles, (3) Iterate always. #Founder #AI #Operations
